@@ -9,7 +9,7 @@
 ### Capítulo: API REST, camadas, CRUD, exceções, validações
 
 Este é um sistema de eventos e cidades com uma relação N-1 entre eles
-["Diagrama Event City"](https://github.com/elderbr/assets/blob/main/DevSuperior/JavaSpringExpert/diagrama_city.png?raw=true)
+!["Diagrama Event City"](https://github.com/elderbr/assets/blob/main/DevSuperior/JavaSpringExpert/diagrama_city.png?raw=true)
 
 ---
 
